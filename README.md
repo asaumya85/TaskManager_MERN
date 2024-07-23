@@ -15,7 +15,7 @@ Install all the dependencies
 
 npm run install-all
 
-## for Database Get MONGOSB URL
+## for Database Get MONGO DB URL
 Create a file named ".env" inside the backend folder.
 
 ##Start the application
