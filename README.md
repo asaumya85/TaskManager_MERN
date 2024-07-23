@@ -1,0 +1,36 @@
+##TASK_MANAGER using MERN stack
+
+##This Task Manager provides you following operation
+
+Signup
+Login
+Logout
+Add tasks
+View tasks
+Update tasks
+Delete tasks
+
+##Installation and Setup
+Install all the dependencies
+
+npm run install-all
+
+## for Database Get MONGOSB URL
+Create a file named ".env" inside the backend folder.
+
+##Start the application
+
+##for backend 
+cd backend 
+node app.js
+
+You get 
+The backend is running on port 5000
+Mongodb connected...
+
+
+##for frontend
+cd frontend
+npm start
+
+Go to http://localhost:3000
